@@ -1,0 +1,30 @@
+{
+  "projectName": "Front-end-Developer-Interview-Questions",
+  "projectOwner": "h5bp",
+  "files": [
+    "CONTRIBUTORS.md",
+    "README.md"
+  ],
+  "imageSize": 120,
+  "commit": true,
+  "contributorsPerLine": 6,
+  "contributors": [
+    {
+      "login": "amit",
+      "name": "Amit Belwal",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/459713?v=4",
+      "profile": "http://doonapp.com/",
+      "contributions": [
+        "ideas",
+        "doc",
+        "infra",
+        "review",
+        "question",
+        "talk",
+        "maintenance"
+      ]
+    }
+  ],
+  "repoType": "github",
+  "commitConvention": "none"
+}
